@@ -28,3 +28,8 @@ figcaption {
 body {
     margin: 8px;
 }
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 70px;
+}
