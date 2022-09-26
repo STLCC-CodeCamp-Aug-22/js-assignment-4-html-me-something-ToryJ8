@@ -1,1 +1,30 @@
-/* Write your CSS here! */
+img {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+    size: 1em;
+    height: 400px;
+    width: 600px;
+}
+
+figcaption {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+#mainHeading {
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
+body {
+    margin: 8px;
+}
